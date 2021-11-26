@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px 20px;
+}
+
+nav {
+  text-align: center;
+  background-color: grey;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  color: white;
+  padding: 10px 15px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: black;
+}
+
+.imagenGrande {
+  width: 70%;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.divImage {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.iconos {
+  width: 40px;
+  margin: 0 20px;
+}
+
+.sectionContent {
+  padding-top: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.sectionContent div {
+  padding: 0 10px;
+}
+
+.sectionContent {
+  padding: 20px;
+}
+
+.subSection {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.button {
+  cursor: pointer;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-decoration: none;
+  border: 0;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background-color: #3369ff;
+  text-align: center;
+}
+
+.button:active {
+  top: 0.1em;
+}
+
+.button:hover {
+  background-color: #11214e;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/style.css">
+    <title>Calculadora</title>
+</head>
+
+<body>
+    <section id="calculadora" class="flex calculadora">
+        <h3>Calculadora de sueldo bruto</h3>
+        <!--Sueldo bruto-->
+        <div class="flex w-100">
+            <label for="sueldo">Bruto</label>
+            <input type="number" name="" id="sueldoBruto" placeholder="Sueldo bruto">
+        </div>
+        <!--Hijos-->
+        <div class="flex w-100">
+            <label for="hijos">Selecciona</label>
+            <select name="" id="hijos">
+            <option value="conhijos" selected>Con hijos</option>
+            <option value="sinhijos">Sin hijos</option>
+        </select>
+            <!--Edad-->
+            <div class="flex w-100">
+                <label for="edad">Edad</label>
+                <input type="number" name="" id="edad" placeholder="Edad">
+            </div>
+            <!--Pagas-->
+            <div class="flex w-100">
+
+                <label for="pagas">Selecciona</label>
+                <select name="" id="pagas">
+                    <option value="docepagas">12 pagas</option>
+                    <option value="catorcepagas">14 pagas</option>
+                </select>
+            </div>
+            <!--Calcular-->
+            <div class="flex w-100">
+                <input type="button" id="boton" value="Calcular" onclick="calcular();">
+            </div>
+            <div>
+                <p id="total"></p>
+            </div>
+    </section>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

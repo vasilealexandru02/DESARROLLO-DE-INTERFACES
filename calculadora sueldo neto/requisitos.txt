@@ -1,0 +1,8 @@
+Con hijos 10%
+Sin hijos 15%
+
+Edad
+Menos de 30 años --> 5%
+Mayor de 30 años --> 7%
+
+Pagas 12 o 14 pagas

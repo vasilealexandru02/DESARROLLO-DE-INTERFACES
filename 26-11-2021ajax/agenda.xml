@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+    <contacto>
+        <nombre>María</nombre>
+        <apellido>Del Campo</apellido>
+        <direccion>Ruela Bravo, 3, Bajos</direccion>
+        <provincia>El Valladares</provincia>
+    </contacto>
+</agenda>
