@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horoscopo>
+    <signo id="aries">
+        <nombre>Aries</nombre>
+        <imagen>ico-aries.png</imagen>
+        <descripcion>
+            Aries forma parte de los signos cardinales y al mismo tiempo es un signo de fuego; también es el primer signo del zodíaco, precisamente por eso, simboliza el inicio, la creación. Se caracteriza por ser una persona rebosante de energía y entusiasmo; avanzada y aventurera, adora la libertad, los retos y las nuevas ideas.
+
+            Los Aries son de acción rápida y confían en su poder, por eso no pierden el tiempo pensando en problemas, de hecho, su manera de resolverlos es la acción. Un aspecto negativo de esta actitud, a veces, es la impulsividad y falta de paciencia, además de arriesgarse demasiado. Tampoco soportan equivocarse ni el fracaso.
+
+            Son personas independientes y casi sienten obsesión por conseguir lo que desean en la vida, precisamente por eso pueden parecer ambiciosas y frívolas en exceso. Es muy fácil que se sientan ofendidas, y cuando esto sucede, resulta extremadamente difícil hacer las paces con ellas.
+
+            En sus relaciones personales, Aries suele ser noble y natural; valora y cuida las amistades que tiene, aunque a veces, meta la pata hiriendo la sensibilidad de quienes tiene cerca. Finalmente, Aries acostumbra a tener la libido sexual alta: ama con una gran pasión, pues el sexo para Aries es toda una aventura. 
+        </descripcion>
+        <primerafecha>
+            21 de marzo
+            <dia>21</dia>
+            <mes>3</mes>
+        </primerafecha>
+        <segundafecha>
+            19 de abril
+            <dia>19</dia>
+            <mes>4</mes>
+        </segundafecha>
+        <prediccionhoy>
+            Tus fuerzas estarán bastante en equilibrio hoy; así que tendrás en tus manos unas buenas dosis de armonía, firmeza y concordia en las negociaciones que desarrolles en este día. Por último, contarás con un fuerte desarrollo mental mediante el trabajo organizado y la disciplina: !no lo olvides!
+        </prediccionhoy>
+        <prediccionmanana>
+            Será un día ideal para realizar viajes de placer en companía de tu pareja, si es posible, claro; además tu sexualidad estará por las nubes, así que podrías planear una velada excitante y dar rienda suelta a tus dotes para la seducción... En fin, contarás con un gran optimismo y vitalidad, algo que se traducirá en cosas positivas para ti.
+        </prediccionmanana>
+    </signo>
+        <signo id="tauro">
+            <nombre>Tauro</nombre>
+            <imagen>ico-tauro.png</imagen>
+            <descripcion>
+                Tauro pertenece a los signos fijos y simultáneamente es un signo de tierra. La proyección del Sol en su nacimiento suele influir para que sean personas firmes, decididas y constantes en varios sentidos. También adoran sentir seguridad, por eso la buscan tanto, es como una necesidad constante en sus vidas.
+
+                Un Tauro es un ser decidido, pragmático y tiene una enorme fuerza de voluntad. Tiende a las ideas conservadoras, y como le gusta tanto la estabilidad, sus ideas son fijas no hay manera de convencer a un Tauro de algo que vaya en contra de sus principios o de lo que piensa y siente, así que la terquedad es otra de sus características más evidente.
+
+                Tienen una gran capacidad para evitar conflictos y disgustos, sin duda prefieren resolver sus problemas con pragmatismo; también tienen buen humor. Sin embargo, cuando pierden los nervios, son capaces de montar en cólera y mostrar un genio terrible.
+
+                Los Tauro son personas sensuales que idolatran la belleza, la fidelidad y el cuidado; no obstante, el punto negativo es que tienden a la posesión. Su carácter romántico hace que disfrute sintiendo el amor de su pareja el sexo para Tauro es en última instancia la manifestación de la entrega que siente por la persona que ama.
+            </descripcion>
+            <primerafecha>
+                20 de abril
+                <dia>20</dia>
+                <mes>4</mes>
+            </primerafecha>
+            <segundafecha>
+                20 de mayo
+                <dia>20</dia>
+                <mes>5</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Hoy deberías pensar en tu propia persona y en los proyectos que quieres desarrollar para llegar al futuro que quieres. Perfecciona las nuevas ideas que tengas y empieza a darle forma a estos proyectos; aprovecha también tus magníficas relaciones para que te echen una mano en lo que necesites.
+            </prediccionhoy>
+            <prediccionmanana>
+                Será un día ideal para dedicarlo al amor, a la sensualidad y a las relaciones de pareja. También las relaciones con tus amistades estarán muy bien aspectadas, por lo que podrías planear una reunión con las personas que más quieres y pasar un día muy agradable en su companía. !Felicidades!
+            </prediccionmanana>
+        </signo>
+        <signo id="geminis">
+            <nombre>Geminis</nombre>
+            <imagen>ico-geminis.png</imagen>
+            <descripcion>
+                Géminis es un signo mutable que forma parte del elemento aire; como signo de los gemelos, su carácter es doble y bastante contradictorio por complejo. Por una parte es capaz de adaptarse con facilidad y rapidez a todo, pero por otra puede resultar hipócrita. Su distintivo común es la comunicación y el ingenio.
+
+                Los Géminis son personas inquietas que empiezan nuevos proyectos y retos con mucho entusiasmo, aunque con demasiada frecuencia les falta la constancia necesaria para realizarlos. Tienden a pensar en la vida como un juego y buscan la diversión y aventura en todo lo que hacen; tienen el egoísmo y la imaginación propia de la infancia.
+
+                También tienen fuerza y vitalidad, además son seres inteligentes, con facultad de expresarse de modo eficaz para deleitar, conmover o persuadir (según convenga) a quienes prestan oídos a sus palabras. Asimismo, son cariñosos y disfrutan como nadie con lo extraordinario y la novedad: cuanta más variedad en su vida, mejor que mejor.
+
+                En el plano sentimental se mueven como pez en el agua y vuelven a demostrar su doble naturaleza: por un lado se entregan sexualmente, pero por otro rechazan el romanticismo y pierden interés con facilidad una vez conquistada su pareja.
+            </descripcion>
+            <primerafecha>
+                21 de mayo
+                <dia>21</dia>
+                <mes>5</mes>
+            </primerafecha>
+            <segundafecha>
+                20 de junio
+                <dia>20</dia>
+                <mes>6</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Es necesario que tomes una decisión importante relacionada sobre todo con el terreno de las relaciones. Es posible que te encuentres ante una disyuntiva, y deberás valorar muy bien todas las opciones que tengas antes de decidirte por una en concreto: usa la cabeza. Finalmente, podría producirse el inicio de una aventura en tu vida.
+            </prediccionhoy>
+            <prediccionmanana>
+                Una buena opción para este fin de semana será un viaje de placer; además, tampoco es necesario que te alejes demasiado de tu entorno habitual. En un plano más personal, tendrás una fuerte energía y sensualidad: aprovéchalas al máximo. También será un buen día para estudiar, ya que tu mente estará sumamente analítica y abierta. !Felicidades!
+            </prediccionmanana>
+        </signo>
+        <signo id="cancer">
+            <nombre>Cancer</nombre>
+            <imagen>ico-cancer.png</imagen>
+            <descripcion>
+                Cáncer es un signo cardinal y comprendido dentro de los signos de agua. De los signos zodiacales, su carácter es el menos claro; puede ser desde retraído, insociable y pelma, hasta deslumbrante, atractivo y admirado por los demás. A veces es demasiado soñador, por eso equivoca el mundo real con la utopía que ha construido en su cabeza: el refugio de las fantasías que adora.
+
+                Los Cáncer tienen una memoria extraordinaria y además poseen un talento innato para las artes y las letras notable. Además son ambiciosos y pueden cambiar sin dificultad de profesión, de amistades, etc.
+                
+                El Cangrejo vive su vida dando dos pasos hacia delante y uno hacia atrás; es curioso pero temeroso, es bravo pero sensible, es voluble pero conservador, ¡vamos!, ¡el mejor exponente del espíritu de la contradicción pura!
+                
+                Cuando se trata de amor, en sus relaciones Cáncer es también una mezcla de contradicción; si mantiene una relación estable, ama de verdad, sinceramente, aunque en su yo interno eso no significa que no pueda mantener relaciones sexuales con otras personas. Además, se caracteriza por una ternura, emoción e imaginación que le convierten en un amante muy, muy especial.
+            </descripcion>
+            <primerafecha>
+                21 de junio
+                <dia>21</dia>
+                <mes>6</mes>
+            </primerafecha>
+            <segundafecha>
+                22 de julio
+                <dia>22</dia>
+                <mes>7</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Antipatía y descontento con el medio que te rodea tenderá a ser la tónica de este día. Deberías lograr un equilibrio interno satisfactorio y prestar atención a la forma en la que te relaciones ahora con los demás. En el terreno de la familia es posible que surjan algunos asuntos que tendrás que resolver con responsabilidad. Ánimo.
+            </prediccionhoy>
+            <prediccionmanana>
+                Este día será un día agradable para ti; podrías planear una comida familiar o salir en un pequeno viaje de fin de semana con tu pareja o con quien quieras. También la sensualidad será algo importante hoy, además, tendrás facilidad para comunicarte de una forma amable; todo esto te permitirá disfrutar de tus relaciones.
+            </prediccionmanana>
+        </signo>
+        <signo id="leo">
+            <nombre>Leo</nombre>
+            <imagen>ico-leo.png</imagen>
+            <descripcion>
+                El signo de Leo es fijo y de fuego, también el signo más dominante del zodíaco. Creativo y abierto, tiene ambición, valor, fuerza, autonomía y total seguridad en sí mismo: sabe dónde quiere llegar y nada ni nadie podrá evitarlo. En contrapartida, sus puntos negativos pueden ser tantos como las virtudes que tiene: vanidad, egocentrismo, arrogancia, impostura y un genio de mil demonios, entre otros defectos.
+
+                Los Leones son entusiastas, creativos y muchas veces comprensivos con las circunstancias de los demás; adoran los lujos y la aventura; correr riesgos les motiva. También se caracterizan por tener un elevado concepto de todo, especialmente, de sí mismos, por eso huyen de la vulgaridad.
+                
+                Como disfrutan con la emoción de las nuevas experiencias y adoran estar en medio de mucha gente, es muy posible que alternen varios círculos sociales y de amistad, aunque nunca olvidarán a sus verdaderas amistades.
+                
+                En el amor, Leo es romántico, algo caprichoso, poco fiel y prisionero de la belleza. Además, no le falta sinceridad, por lo menos mientras dura el amor, no más. Finalmente, le encantan las relaciones sexuales, así que es muy posible que tenga diversas y diferentes parejas durante su vida.
+            </descripcion>
+            <primerafecha>
+                23 de julio
+                <dia>23</dia>
+                <mes>7</mes>
+            </primerafecha>
+            <segundafecha>
+                22 de agosto
+                <dia>22</dia>
+                <mes>8</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Hoy podrías alcanzar grandes cosas mediante el uso constructivo de tu mente creativa. Disfrutarás de ganancias y de expansión en el terreno del trabajo, pero no dejes de organizar tus ideas. Los viajes tenderán a ser muy placenteros, y además, también podrían traer a tu vida cierta riqueza.
+            </prediccionhoy>
+            <prediccionManana>
+                Una buena alternativa para este fin de semana será realizar un viaje, y si está relacionado con el aprendizaje, mejor que mejor. Además, las actividades relacionadas con la lectura y algún asunto que te interese y que esté relacionado con la metafísica aportarán sabiduría y conocimiento a tu vida.
+            </prediccionManana>
+        </signo>
+        <signo id="virgo">
+            <nombre>Virgo</nombre>
+            <imagen>ico-virgo.png</imagen>
+            <descripcion>
+                Virgo es un signo mutable y de tierra; representado por una virgen, es un signo caracterizado por su espíritu crítico, precisión, reserva, paciencia y convencionalismo. También es lógico, metódico y aplicado, le gusta aprender y es capaz de analizar las situaciones más complejas con una claridad pasmosa.
+
+                Como es el perfeccionista del zodíaco, de vez en cuando cae en obsesiones de todo tipo: desde la obsesión por el orden, pasando por la limpieza, hasta llegar incluso a la obsesión por los detalles. Su sentido de la responsabilidad está muy desarrollado, por eso odia la improvisación y la frivolidad, además, para desarrollarse plenamente necesita sentirse seguro.
+
+                Los Virgo son amigos de sus amigos; si necesitas su ayuda, pídesela y hará todo lo que esté en sus manos por ayudarte. Además, su visión seguramente sea la más acertada, así que puedes estar seguro de que te servirá de algo.
+
+                En el amor, Virgo es una persona cariñosa, entregada y fiel. La pasión no es su fuerte, pero su romanticismo, atención por los detalles y ternura resultan sorprendentes y suplen en cierta medida su falta de decisión. En calidad de padre o madre es lo más entregado que existe en el zodiaco, y como pareja también.
+            </descripcion>
+            <primerafecha>
+                23 de agosto
+                <dia>23</dia>
+                <mes>8</mes>
+            </primerafecha>
+            <segundafecha>
+                22 de septiembre
+                <dia>22</dia>
+                <mes>9</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Tendrás hoy optimismo, madurez y responsabilidad, además de integridad y persistencia. Demostrarás tus habilidades; en este sentido, laboriosa y organizadamente podrás lograr lo que te propongas. También tendrás unos deseos muy fuertes de poder y riquezas, pero tu paciencia resultará ahora fundamental. 
+            </prediccionhoy>
+            <prediccionmanana>
+                Te espera un fin de semana aventurero, sobre todo si puedes hacer un viaje y disfrutar de la naturaleza. También podrías hacer una comida e invitar a todos a casa; las relaciones con las personas pertenecientes a tu entorno más cercano estarán activadas positivamente; además, serán algo ahora importante en tu vida. !Felicidades!
+            </prediccionmanana>
+        </signo>
+        <signo id="libra">
+            <nombre>Libra</nombre>
+            <imagen>ico-libra.png</imagen>
+            <descripcion>
+                Libra es un signo cardinal y de aire, se encuentra además entre los signos más refinados del zodíaco; tiene elegancia, encanto, diplomacia y buen gusto, ama la belleza, es muy curioso por naturaleza y odia los conflictos. Sus puntos negativos a veces son la frivolidad y un carácter voluble.
+
+                Al igual que su propio arquetipo: la balanza, símbolo de justicia, las Libra son personas que presentan un sentido de la ecuanimidad y la tolerancia muy desarrollado; comprenden las posturas de los demás y al mismo tiempo procuran dirimir las diferencias. En general, no les gusta la rutina, sobre todo en su trabajo; además tienen una fina sensibilidad artística que pueden llegar a canalizar profesionalmente.
+                
+                Libra, como signo de aire que es, necesita tener estímulos intelectuales constantes, usar el razonamiento y mantener una comunicación fluida e interesante en las relaciones que mantiene, sean de la clase que sea.
+                
+                Cuando se trata de amor, el romanticismo es una constante en su unión, también la búsqueda de la belleza (tanto física como interna o espiritual) y su tendencia al hedonismo. Libra posee una capacidad para seducir sublime: un gesto, una mirada son armas que dispone de forma innata para la seducción.
+            </descripcion>
+            <primerafecha>
+                23 de septiembre
+                <dia>23</dia>
+                <mes>9</mes>
+            </primerafecha>
+            <segundafecha>
+                22 de octubre
+                <dia>22</dia>
+                <mes>10</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Hoy estarás muy sensible y sensual a la vez, con una mezcla fantástica de encanto y energía. El amor llegará fácilmente a ti, pero tal vez exijas demasiado de los demás y podrías sentirte irritable e frustrado-a de no ser así. En fin, tus intereses serán vehementes, pero deberías evitar querer dominarlo todo...
+            </prediccionhoy>
+            <prediccionmanana>
+                Una alternativa para hoy bien podría ser hacer un pequeno viaje de fin de semana con tu pareja, o con quien quieras, para disfrutar de la naturaleza. Tendrás una fuerte sensualidad que podría ser canalizada a través del sexo, y seguramente sea así. De todos modos, recuerda que el ejercicio físico también ayudará a equilibrarte.
+            </prediccionmanana>
+        </signo>
+        <signo id="escorpio">
+            <nombre>Escorpio</nombre>
+            <imagen>ico-escorpio.png</imagen>
+            <descripcion>
+                Escorpio es un signo fijo y de agua; su potencia y energía emocional son únicas en todo el zodíaco. Tiene mucha imaginación e intuición, además de una gran capacidad para el análisis, fuerza de voluntad y firmeza, aunque también es muy sensible y emocional consigo mismo y con el entorno.
+
+                Además, Escorpio desea ejercer el control, acumulando poder; suele tener una profunda inteligencia fruto de su poder de concentración. Escorpio tiende a ir a la raíz, a lo esencial y a lo que pertenece al mundo inconsciente.
+                
+                Un Escorpión es inmensamente enérgico y su carácter puede dar lugar a grandes ventajas o no menos grandes peligros para los demás. De hecho, sus puntos negativos son la agresión, los celos y el resentimiento. No soporta la deslealtad y tampoco perdona una ofensa; es más, seguramente busque venganza... y es muy mal enemigo, así que cuidadito con hacerle daño.
+                
+                Las Escorpio son personas muy sensuales y apasionadas; para ellas el acto del amor es algo espiritual: sienten emociones a las que otros signos ni se pueden acercar. La intensidad de sus sentimientos hace que sus relaciones amorosas sean profundas, mágicas, y a veces, por desgracia, fatales.
+            </descripcion>
+            <primerafecha>
+                23 de octubre
+                <dia>23</dia>
+                <mes>10</mes>
+            </primerafecha>
+            <segundafecha>
+                21 de noviembre
+                <dia>21</dia>
+                <mes>11</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Tu comportamiento hoy será entusiasta y ambicioso, además, contarás con una gran habilidad organizadora y serás una persona productiva en el terreno del trabajo; tus posibilidades no tendrán ahora límites, solamente los que te impongas tú mismo-a. Tu mente estará hoy muy profunda e ingeniosa. !Vete a por todas!
+            </prediccionhoy>
+            <prediccionmanana>
+                Una buena opción para este fin de semana será realizar un pequeno viaje de placer, también puede ser salir a pasear y disfrutar de la naturaleza. La lectura y el estudio serán dos opciones muy interesantes y enriquecedoras. Finalmente, tu sensualidad estará por las nubes: dale rienda suelta y disfruta de los placeres de la vida. !Felicidades!
+            </prediccionmanana>
+        </signo>
+        <signo id="sagitario">
+            <nombre>Sagitario</nombre>
+            <imagen>ico-sagitario.png</imagen>
+            <descripcion>
+                Sagitario pertenece a los signos mutables y su elemento es el fuego; es uno de los signos más resplandecientes y positivos del zodíaco. También es versátil, adora las aventuras y buscar nuevos horizontes, ya que tiene una mente abierta a nuevas ideas y experiencias y mantiene una actitud decidida ante la adversidad; además, frecuentemente la suerte le acompaña.
+
+                Asimismo, son personas a quienes les encanta empezar nuevos proyectos y aprender constantemente cosas nuevas. Son intuitivas, buenas organizadoras, generosas (pero sin malgastar) y muy cuidadosas, lo que las convierte en buenas gestoras de situaciones y proyectos.
+
+                El signo de Sagitario desarrolla unos ideales y principios que son las pautas que constituyen su forma de caminar por el mundo, precisamente por eso, es muy posible que la religión como búsqueda de la verdad sea algo intrínseco de su energía y a lo que tienda a lo largo de su vida.
+
+                En el amor, Sagitario valora la libertad y la independencia por encima de todas las cosas Sin duda, este signo estará dispuesto a terminar cualquier relación que se convierta en una pesada carga.
+            </descripcion>
+            <primerafecha>
+                22 de noviembre
+                <dia>22</dia>   
+                <mes>11</mes>
+            </primerafecha>
+            <segundafecha>
+                21 de diciembre
+                <dia>21</dia>
+                <mes>12</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Te caracterizarás hoy por la actividad y rapidez en la toma de decisiones. En general, podrías conseguir expandirte gracias a la consistencia en tus esfuerzos. También serás una persona visionaria y especialmente segura de ti misma. Finalmente, es posible que recibas buenas noticias.
+            </prediccionhoy>
+            <prediccionmanana>
+                Una buena opción en este fin de semana será un viaje para disfrutar del contacto con la naturaleza y de la companía de tu pareja, si la tienes, y de los demás seres a quienes quieres. También será un buen día para el estudio, la reflexión y la lectura de temas profundos que te proporcionen cierto desarrollo personal.
+            </prediccionmanana>
+        </signo>
+        <signo id="capricornio">
+            <nombre>Capricornio</nombre>
+            <imagen>ico-capricornio.png</imagen>
+            <descripcion>
+                Capricornio es un signo cardinal y de tierra, y uno de los signos del zodíaco más constante, sólido y apacible. También se caracteriza por ser prudente y práctico en todos los asuntos que le conciernen. Sus aspectos más negativos tienden hacia el pesimismo, la fijeza y la melancolía.
+
+                En general, son personas trabajadoras, responsables y dispuestas a persistir lo que haga falta para conseguir su objetivo; además son muy fiables y cuentan con unas elevadas dosis de paciencia y resistencia para avanzar hacia sus objetivos; en este sentido, su capacidad para la gestión resulta asombrosa. Por otra parte, no soportan la falta de honradez ni de disciplina.
+
+                Capricornio atesora conocimiento por medio de la experiencia Es el sabio que reconoce y valora lo necesario de lo que no lo es, lo que persiste de lo que perece, la realidad y su representación.
+
+                Cuando se trata de amor, a veces le cuestan las relaciones, sobre todo con el sexo opuesto; necesita mucha dedicación. Aunque una vez que se enamoran, suelen ser personas muy fieles y algo celosas. Las reticencias de Capricornio se derivan de su pensamiento; para la cabra, el sexo seguro es el mejor sexo.
+            </descripcion>
+            <primerafecha>
+                22 de diciembre
+                <dia>22</dia>
+                <mes>12</mes>
+            </primerafecha>
+            <segundafecha>
+                19 de enero
+                <dia>19</dia>
+                <mes>1</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Debes fluir con los cambios y oportunidades que se presenten, pues todo esto será para bien: tenlo presente durante todo el día. Por otra parte, tu paciencia será recompensada y los logros materiales vendrán a ti, pero deberías evitar la desorganización. Actúa con la firmeza necesaria que te lleve al lugar donde quieres estar.
+            </prediccionhoy>
+            <prediccionmanana>
+                Dedica el día a relajarte, a compartir con tu pareja y familia. Un poco de deporte y las actividades sociales también podrían ser una buena opción hoy. En este sentido, podrías preparar una reunión; las relaciones sociales serán algo muy importante, pues tienen que ver con tus proyectos laborales actuales y futuros.
+            </prediccionmanana>
+        </signo>
+        <signo id="acuario">
+            <nombre>Acuario</nombre>
+            <imagen>ico-acuario.png</imagen>
+            <descripcion>
+                Acuario es un signo fijo y de aire, y sin duda, es el signo con mayor capacidad para la invención de toda la rueda zodiacal. Simpático, original y brillante, Acuario también es un signo muy humanitario, al mismo tiempo que independiente e intelectual. Sus puntos negativos se encuentran en su inestabilidad e imprecisión y en su tendencia a llevar la contraria casi por sistema.
+
+                Las personas nacidas Acuario hacen gala de de una sinceridad e idealismo a prueba de bombas. Amantes de todo lo original, tienen montones de ideas nuevas agolpadas en sus mentes, lo que pasa es que cuando van a poner en marcha una de ellas, sale otra, y cuando van a poner esa en marcha, sale otra, y otrason pura creatividad.
+                
+                Generalmente Acuario necesita moverse con libertad, sin condicionantes ni ataduras; la posesión no entra dentro de su modo de ver la vida, además, es un signo caracterizado por su desapego.
+                
+                En el amor, la intimidad no es su punto fuerte; los pertenecientes a este signo suelen sentirse demasiado vulnerables y poco cómodos cuando no se sienten seguros. De todas maneras, tampoco son unos santurrones que practican el celibato como penitencia este signo ama el sexo e irradia una energía sexual potentísima.
+            </descripcion>
+            <primerafecha>
+                20 de enero
+                <dia>20</dia>
+                <mes>1</mes>
+            </primerafecha>>
+            <segundafecha>
+                18 de febrero
+                <dia>18</dia>
+                <mes>2</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Disfrutarás de amor, de una amistad que comienza o se renueva, de pasión, de unión y de compromisos. También de reciprocidad en el amor y de armonía en las diferentes relaciones que mantienes, sobre todo en las de pareja, sin duda, gracias a tu estabilidad en el terreno emocional. Además, tendrás suerte. !Felicidades!
+            </prediccionhoy>
+            <prediccionmanana>
+                Una buena opción para este día será dedicarlo a las relaciones amorosas. También podrías invitar a tus seres queridos a hacer algo totalmente fuera de lo convencional, diferente, esto hará que tus relaciones se renueven. Una rica comida podría ser el preámbulo para una velada sensual y excitante...
+            </prediccionmanana>
+        </signo>
+        <signo id="piscis">
+            <nombre>Piscis</nombre>
+            <imagen>ico-piscis.png</imagen>
+            <descripcion>
+                Piscis es un signo mutable y de agua, también es el último signo del zodiaco, precisamente por eso, es el más rico y complejo de todos. Sensible ante el sufrimiento de los demás, responde con buena voluntad y ganas de ayudar. No le gusta sentirse preso y ni respeta las convenciones, así, por las buenas, aunque tampoco tiende a luchar contra lo establecido, sencillamente, discurre por otro lado.
+
+                Los Piscis tienden a vivir de una manera emocional más que racional, de forma instintiva e intuitiva más que de forma lógica. Les cuesta mucho transmitir lo que perciben, no saben expresarlo con palabras sino con acciones... Una clave para los Piscis es cómo contactan con su sensibilidad.
+                
+                Además, aunque suele decirse de Piscis que es el signo de la ingenuidad, cuando es su respuesta ante el mundo de las sensaciones que contempla y percibe lo que le hace ser ingenuo o escéptico, dos extremos de la misma cuerda.
+                
+                En el amor, son personas fieles, adaptables y que buscan incansablemente una unión con la mente y el espíritu de su pareja más que una unión puramente sexual. Necesitan soñar conjuntamente con su media naranja y sentir para dar un amor puro y un sexo muy especial.
+            </descripcion>
+            <primerafecha>
+                19 de febrero
+                <dia>19</dia>
+                <mes>2</mes>
+            </primerafecha>
+            <segundafecha>
+                20 de marzo
+                <dia>20</dia>
+                <mes>3</mes>
+            </segundafecha>
+            <prediccionhoy>
+                Es posible que hoy se produzca la realización de una de tus esperanzas, sin duda, gracias a los esfuerzos realizados hasta ahora. Además, te apetecerá mucho buscar nuevas ideas y amistades, así como aventuras. Por último, contarás con habilidad de discernimiento, algo muy, muy positivo para ti.
+            </prediccionhoy>
+            <prediccionmanana>
+                Este será un día ideal para meditar, para estar un poco contigo mismo-a a solas. De todos modos, también las actividades relacionadas con el plano social se encontrarán bien aspectadas; al igual que las actividades relacionadas con el arte y la cultura estarán favorecidas durante todo el día.
+            </prediccionmanana>
+        </signo>
+</horoscopo>

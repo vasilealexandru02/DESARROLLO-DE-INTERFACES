@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+.descripcion{
+    width: 30%;
+    display: none;
+}
+.descripcionHoroscopo{
+    display: none;
+}
+
+section {
+    margin: 50px;
+}
+
+p {
+    padding-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    cursor: pointer;
+}
+
+.oculto {
+    display: none;
+}
+
+#cartelera div {
+    cursor: pointer;
+}
+input{
+   margin-top:20px;
+}
+button{
+    padding:10px;
+    align-items: center;
+}
+select{
+    padding:10px;
+}
+.buttonFlex{
+    display:flex;
+    justify-content: center;
+    margin:0 20px;
+}
+

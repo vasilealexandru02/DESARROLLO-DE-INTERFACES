@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    margin: 50px;
+}
+
+p {
+    padding-top: 10px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.oculto {
+    display: none;
+}
+
+#cartelera div {
+    cursor: pointer;
+}
