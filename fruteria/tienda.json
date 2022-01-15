@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Melocotón Amarillo",
+        "procedencia":"Valencia",
+        "tipo":"Fruta",
+        "precio":2.92,
+        "foto":"images/melocoton-amarillo-1-kg-murcia.jpg",
+        "id": 1
+    },
+    {
+        "nombre": "Plátanos Canarios",
+        "procedencia":"Islas Canarias",
+        "tipo":"Fruta",
+        "precio":2.80,
+        "foto":"images/platanos-canarios-1-kg-islas-canarias.jpg",
+        "id": 2
+    },
+    {
+        "nombre": "Cerezas",
+        "procedencia":"Zaragoza",
+        "tipo":"Fruta",
+        "precio":6.17,
+        "foto":"images/cerezas-1-kg-la-rioja.jpg",
+        "id": 3
+    },
+    {
+        "nombre": "Ciruela Amarilla",
+        "procedencia":"Murcia",
+        "tipo":"Fruta",
+        "precio":3.79,
+        "foto":"images/ciruelas-rojas-1-kg-navarra.jpg",
+        "id": 4
+    },
+    {
+        "nombre": "Pimiento California Rojo",
+        "procedencia":"Murcia",
+        "tipo":"Verdura",
+        "precio":3.75,
+        "foto":"images/pimiento-california-rojo-el-kg-murcia.jpg",
+        "id": 5
+    },
+    {
+        "nombre": "Berenjenas",
+        "procedencia":"Andalucía",
+        "tipo":"Verdura",
+        "precio":2.61,
+        "foto":"images/berenjenas-el-kg-navarra.jpg",
+        "id": 6
+    },
+    {
+        "nombre": "Tomate Rosa de Barbastro",
+        "procedencia":"La Rioja",
+        "tipo":"Fruta",
+        "precio":4.74,
+        "foto":"images/tomates-redondos-1-kg-almeria.jpg",
+        "id": 7
+    },
+    {
+        "nombre": "Pepino Corto",
+        "procedencia":"La Rioja",
+        "tipo":"Verdura",
+        "precio":2.14,
+        "foto":"images/pepino-corto-el-kg-murcia.jpg",
+        "id": 8
+    },
+    {
+        "nombre": "Huevos Ecológicos",
+        "procedencia":"La Nava de Marjaliza",
+        "tipo":"Huevos ecológicos",
+        "precio":1.69,
+        "foto":"images/huevos-ecologicos-12-docena-la-nava-de-marjaliza.jpg",
+        "id": 9
+    }
+]
