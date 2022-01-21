@@ -1,0 +1,13 @@
+#tienda {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#tienda div {
+    width: 30%;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+}

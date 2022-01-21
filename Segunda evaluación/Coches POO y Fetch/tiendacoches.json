@@ -1,0 +1,64 @@
+[
+{
+    "marca": "SUBARU",
+    "modelo":"TRIBECA 3.6 LIMITED",
+    "kilometros":"100.745 km",
+    "anyo":"Sep 2010",
+    "precio":13941,
+    "motor":"Gasolina",
+    "foto":"subaru.jpg",
+    "id":1
+},
+{
+    "marca": "BMW",
+    "modelo":"320 CD COUPE",
+    "kilometros":"196.210 km",
+    "anyo":"Ene 2008",
+    "precio":8901,
+    "motor":"Diésel",
+    "foto":"bmw.jpg",
+    "id":2
+},
+{
+    "marca": "FIAT",
+    "modelo":"500C 1.2 LOUNGE",
+    "kilometros":"39.619 km",
+    "anyo":"Dic 2013",
+    "precio":8991 ,
+    "motor":"Gasolina",
+    "foto":"fiat.jpg",
+    "id":3
+},
+{
+    "marca": "VOLKSWAGEN",
+    "modelo":"GOLF 1.4 TSI ADVANCE",
+    "kilometros":"67.161 km",
+    "anyo":"May 2010",
+    "precio":9071,
+    "motor":"Gasolina",
+    "foto":"golf.jpg",
+    "id":4
+},
+{
+    "marca": "OPEL",
+    "modelo":"INSIGNIA 2.0 CDTI",
+    "kilometros":"211.582 km",
+    "anyo":"Nov 2009",
+    "precio":6711,
+    "motor":"Diésel",
+    "foto":"opel.jpg",
+    "id":5
+},
+{
+    "marca": "PEUGEOT",
+    "modelo":"508 2.0 HDI ALLURE",
+    "kilometros":"130.855 km",
+    "anyo":"Ene 2013",
+    "precio":10521,
+    "motor":"Híbrido",
+    "foto":"peugeot.jpg",
+    "id":6
+}
+
+
+]

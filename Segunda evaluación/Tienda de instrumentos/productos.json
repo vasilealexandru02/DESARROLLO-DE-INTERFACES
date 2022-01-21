@@ -1,0 +1,86 @@
+[
+
+    {
+        "id": 1,
+        "categoria": "guitarra",
+        "nombre": "Guitarra Yamaha CGS103A II",
+        "precio": 139.88,
+        "destacado": "si",
+        "foto": "YMGCGS103AII.jpg"
+
+    },
+    {
+        "id": 2,
+        "categoria": "guitarra",
+        "nombre": "Guitarra Clásica Yamaha C40 Black",
+        "precio": 157.36,
+        "destacado": "no",
+        "foto": "YMGC40BLII.jpg"
+
+    },
+    {
+        "id": 3,
+        "categoria": "guitarra",
+        "nombre": "Guitarra Clásica José Torres Jtc-5S",
+        "precio": 198.44,
+        "destacado": "no",
+        "foto": "LT31839.jpg"
+
+    },
+    {
+        "id": 4,
+        "categoria": "bajo",
+        "nombre": "Bajo Eléctrico Yamaha TRBX174EW",
+        "precio": 281.81,
+        "destacado": "si",
+        "foto": "YMGTRBX174EW00.jpg"
+
+    },
+    {
+        "id": 5,
+        "categoria": "bajo",
+        "nombre": "Bajo Eléctrico Yamaha BB234",
+        "precio": 351.75,
+        "destacado": "no",
+        "foto": "YMGBB23400.jpg"
+
+    },
+    {
+        "id": 6,
+        "categoria": "bajo",
+        "nombre": "Bajo Eléctrico Yamaha TRBX305",
+        "precio": 404.20,
+        "destacado": "no",
+        "foto": "YMGTRBX30500.jpg"
+
+    },
+    {
+        "id": 7,
+        "categoria": "ukelele",
+        "nombre": "Ukelele Lanikai Soprano Kohala AK-S",
+        "precio": 67.49,
+        "destacado": "si",
+        "foto": "TC5307646.jpg"
+
+    },
+    {
+        "id": 8,
+        "categoria": "ukelele",
+        "nombre": "Ukelele Octopus Soprano UK-200",
+        "precio": 35.90,
+        "destacado": "no",
+        "foto": "TC5307935_00[3].jpg"
+
+    },
+    {
+        "id": 9,
+        "categoria": "ukelele",
+        "nombre": "Ukelele Octopus Soprano UK-200",
+        "precio": 35.90,
+        "destacado": "no",
+        "foto": "TC5307935_00[4].jpg"
+
+    }
+
+
+]
